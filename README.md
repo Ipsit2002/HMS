@@ -19,7 +19,7 @@ A **Hospital Management System (HMS)** designed to streamline and automate hospi
 ## How to Run the Project
 1. **Download** or **clone** the repository:
    ```bash
-   git clone https://github.com/Ipsit2002/HMS.git
+   git clone https://github.com/IpsitC/HMS.git
 
 
 2. Unzip the HMS file.
