@@ -9,7 +9,7 @@ A **Hospital Management System (HMS)** designed to streamline and automate hospi
 - **Billing System:** Automated billing generation, payment tracking, and invoice management.
 - **Medical Records:** Maintain digital records of diagnoses, treatments, and prescriptions.
 - **User Roles:** Secure login system with roles for admins, doctors, and patients.
-- **Responsive Design:** User-friendly interface accessible across devices.
+
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
