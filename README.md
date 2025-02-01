@@ -17,7 +17,7 @@ Database: MySQL (managed via PHPMyAdmin)
 
 How to Run the Project:
 Clone the repository:
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/Ipsit2002/HMS.git
 
 Import the SQL file into your MySQL database.
 Configure database credentials in the config.php file.
